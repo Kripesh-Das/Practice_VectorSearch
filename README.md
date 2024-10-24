@@ -1,7 +1,7 @@
 # Project Title
 
 ## Overview
-This project appears to be a data analysis or machine learning project, given the presence of a Jupyter notebook and a JSON file with BM25 values.
+A place for Hybrid Search Engine Projects
 
 ## Project Structure
 - `.env`: Environment variables file.
